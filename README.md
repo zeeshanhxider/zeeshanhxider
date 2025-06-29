@@ -1,10 +1,5 @@
 <meta name="description" content="Zeeshan's GitHub profile in neon green color">
 
-<!-- Header Banner -->
-<a href="#">
-  <img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=9EFF00&height=120&section=header"/>
-</a>
-
 <!-- Typing Animation -->
 [![Typing SVG](https://readme-typing-svg.herokuapp.com?color=9EFF00&size=35&center=true&vCenter=true&width=1000&lines=Hi%2C+I+am+Zeeshan;I'm+an+Aspiring+AI+Engineer;Welcome!++%E3%83%84)](https://git.io/typing-svg)
 
@@ -81,9 +76,3 @@
 <p align="center">
   <img src="https://raw.githubusercontent.com/zeeshanhxider/zeeshanhxider/output/github-snake.svg" alt="snake animation" />
 </p>
-
-
-<!-- Footer Banner -->
-<a href="#">
-  <img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=9EFF00&height=120&section=footer"/>
-</a>
