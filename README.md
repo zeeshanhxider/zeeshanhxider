@@ -77,9 +77,9 @@
 
 ---
 
-<!-- Snake Animation (works only after GitHub Action is set up) -->
+<!-- Snake Animation -->
 <p align="center">
-  <img src="https://github.com/YOUR_USERNAME/YOUR_USERNAME/blob/output/snake.svg" alt="snake animation"/>
+  <img src="https://github.com/zeeshanhxider/zeeshanhxider/blob/output/snake.svg" alt="snake animation" />
 </p>
 
 <!-- Footer Banner -->
