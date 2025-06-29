@@ -79,7 +79,7 @@
 
 <!-- Snake Animation -->
 <p align="center">
-  <img src="https://github.com/zeeshanhxider/zeeshanhxider/blob/output/snake.svg" alt="snake animation" />
+  <img src="https://raw.githubusercontent.com/zeeshanhxider/zeeshanhxider/output/github-snake.svg" alt="snake animation" />
 </p>
 
 <!-- Footer Banner -->
