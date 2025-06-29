@@ -1,7 +1,7 @@
 <meta name="description" content="Zeeshan's GitHub profile in neon green color">
 
 <!-- Typing Animation -->
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?color=9EFF00&size=35&center=true&vCenter=true&width=1000&lines=Hi%2C+I+am+Zeeshan+⚡;I'm+an+Aspiring+AI+Engineer;Welcome!++%E3%83%84)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?color=9EFF00&size=35&center=true&vCenter=true&width=1000&lines=Hi%2C+i'm+zeeshan;I'm+an+Aspiring+AI+Engineer;Welcome!++%E3%83%84)](https://git.io/typing-svg)
 
 <br><br>
 
