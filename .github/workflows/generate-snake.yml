@@ -9,13 +9,13 @@ jobs:
   generate:
     runs-on: ubuntu-latest
     steps:
-      - name: Generate snake
+      - name: Generate Snake
         uses: Platane/snk@v3
         with:
           github_user_name: ${{ github.repository_owner }}
           outputs: |
-            dist/github-snake.svg?color_snake=#9EFF00&palette=github-dark
-      - name: Publish snake to output branch
+            dist/github-snake.svg?color_snake=#9EFF00&color_dots=#FFFFFF&palette=github-dark&stroke_width=3
+      - name: Push Snake to Output Branch
         uses: crazy-max/ghaction-github-pages@v3
         with:
           target_branch: output
