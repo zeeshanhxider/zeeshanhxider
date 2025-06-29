@@ -63,7 +63,7 @@
 ### 📫 How to Reach Me
 
 <p align="center">
-  <a href="mailto:zawan.bese24seecs@seecs.edu.pk">
+  <a href=mailto:"zawan.bese24seecs@seecs.edu.pk">
   <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail">
   </a>
   <a href="https://www.linkedin.com/in/zeeshanhxider/">
