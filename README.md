@@ -82,6 +82,7 @@
   <img src="https://raw.githubusercontent.com/zeeshanhxider/zeeshanhxider/output/github-snake.svg" alt="snake animation" />
 </p>
 
+
 <!-- Footer Banner -->
 <a href="#">
   <img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=9EFF00&height=120&section=footer"/>
