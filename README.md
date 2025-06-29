@@ -79,7 +79,7 @@
 
 <!-- Snake Animation -->
 <p align="center">
-  <img src="https://raw.githubusercontent.com/zeeshanhxider/zeeshanhxider/output/github-snake.svg" alt="snake animation" />
+  <img src="https://raw.githubusercontent.com/zeeshanhxider/zeeshanhxider/output/github-snake.svg?color_snake=#9EFF00&color_dots=#9EFF00&palette=github&stroke_width=3" alt="snake animation" />
 </p>
 
 
