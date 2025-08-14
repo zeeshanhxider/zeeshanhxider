@@ -4,9 +4,6 @@
 [![Typing SVG](https://readme-typing-svg.herokuapp.com?color=9EFF00&size=35&center=true&vCenter=true&width=1000&lines=Hi%2C+I'm+zeeshan;I'm+an+aspiring+AI+engineer;welcome!++%E3%83%84)](https://git.io/typing-svg)
 
 <br><br>
-
-#### <span style="color:#39FF14">I am passionate about using Artificial Intelligence to solve real-world problems.</span>
-
 ---
 
 ### 👨‍💻 Languages  
@@ -41,6 +38,7 @@
 <a href="#"><img height="30" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/kaggle/kaggle-original.svg" alt="Kaggle"/></a>
 <a href="#"><img height="30" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" alt="GitHub"/></a>
 
+<br><br>
 ---
 
 ### 📫 How to Reach Me
@@ -57,6 +55,7 @@
   </a>
 </p>
 
+<br><br>
 ---
 
 <!-- Snake Animation -->
