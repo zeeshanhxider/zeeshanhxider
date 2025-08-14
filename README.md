@@ -57,10 +57,6 @@
   </a>
 </p>
 
-<p align="center">
-  Feel free to connect with me! I'm always open to exciting opportunities and discussions. Let's chat!
-</p>
-
 ---
 
 <!-- Snake Animation -->
