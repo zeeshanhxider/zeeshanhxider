@@ -29,7 +29,9 @@
 <a href="#"><img height="30" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original.svg" alt="MongoDB"/></a>
 
 ### 🧰 Tools & Platforms  
-<a href="#"><img height="30" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" alt="VS Code"/></a>
+<a href="#"><img height="30" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg" alt="Linux"/></a>
+<a href="#"><img height="30" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/archlinux/archlinux-original.svg" alt="Arch Linux"/></a>
+<a href="#"><img height="30" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/neovim/neovim-original.svg" alt="Neovim"/></a>
 <a href="#"><img height="30" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" alt="Git"/></a>
 <a href="#"><img height="30" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg" alt="Docker"/></a>
 <a href="#"><img height="30" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/kaggle/kaggle-original.svg" alt="Kaggle"/></a>
