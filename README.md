@@ -1,7 +1,7 @@
 <meta name="description" content="zeeshan's github profile">
 
 <!-- Typing Animation -->
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?color=9EFF00&size=35&center=true&vCenter=true&width=1000&lines=Hi%2C+I'm+zeeshan;I'm+an+aspiring+AI+engineer;welcome!++%E3%83%84)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?color=9EFF00&size=35&center=true&vCenter=true&width=1000&lines=Hi%2C+I'm+zeeshan;I'm+an+aspiring+AI+engineer;welcome!)](https://git.io/typing-svg)
 
 <br><br>
 ---
